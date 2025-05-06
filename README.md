@@ -1,2 +1,2 @@
 # Graduation-Project
-Bank Customer Churn this is graduation project with my team in DEPI data science and AI.
+Bank Customer Churn this is My Graduation Project with my team in DEPI for Advanced Diploma Data Science and AI Prepared By (IBM).
